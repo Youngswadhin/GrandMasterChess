@@ -80,3 +80,4 @@ const AgainstComputer: React.FC = () => {
 };
 
 export default AgainstComputer;
+
